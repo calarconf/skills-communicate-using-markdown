@@ -5,3 +5,6 @@
 Print( "hola MUNDO")
 
 ```
+- [x] Complete the Courses
+- [ ] Complete the homework for visual computation matter
+- [ ] Read for the quiz
